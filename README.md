@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hello, there! I'm Senstella.
 
-<!--
-**senstella/senstella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. *Be curious.*
+>
+> — Stephen Hawking
 
-Here are some ideas to get you started:
+#### Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming — generally.
+- Machine Learning — specifically generative models.
+
+#### Contact
+
+- Github — here.
+- senstella01@gmail.com — my email.
